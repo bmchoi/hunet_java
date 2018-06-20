@@ -9,7 +9,7 @@ public class Example04 {
 			else odd += i;
 			i++;
 		}
-		System.out.println("Â¦¼öÀÇ ÇÕ : " + even);
-		System.out.println("È¦¼öÀÇ ÇÕ : " + odd);
+		System.out.println("ì§ìˆ˜ì˜ í•© : " + even);
+		System.out.println("í™€ìˆ˜ì˜ í•© : " + odd);
 	}
 }
